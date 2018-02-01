@@ -86,9 +86,9 @@ Your key will be rate-limited to ~5 queries per minute.
 
 * Please exclude generated files from your submission. When we review your code it will be built in Xcode.
 
+# Follow-up
 
-
-# Implementation:
+## Implementation:
 
 ### Q) What libraries did you add to the app? What are they used for?
 - Alamofire: for http networking
@@ -96,7 +96,8 @@ Your key will be rate-limited to ~5 queries per minute.
 
 ---
 
-# General:
+
+## General:
 
 ### Q) How long did you spend on the test?
 
