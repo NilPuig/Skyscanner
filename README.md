@@ -34,7 +34,7 @@ Feel free to spend as much or as little time as you'd like, as long as the follo
 
 ## Design
 
-![Alt](https://github.com/NilPuig/Skyscanner-Test/blob/master/results.png)
+![Alt](https://github.com/NilPuig/Skyscanner-Test/blob/master/results.png =200x357)
 
 We've provided a design for phone layout (see `/designs/results-phone.png`). Don't worry about tackling tablet screens.
 
