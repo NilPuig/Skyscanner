@@ -1,5 +1,7 @@
 # Skyscanner App Recruitment test
 
+![Alt](https://github.com/NilPuig/Skyscanner-Test/blob/master/results.png)
+
 Thanks for taking the time to do our app coding test. 
 
 Please complete the challenge within 7 days.
