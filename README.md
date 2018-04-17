@@ -1,7 +1,5 @@
 # Skyscanner App Recruitment test
 
-![Alt](https://github.com/NilPuig/Skyscanner-Test/blob/master/results.png)
-
 Thanks for taking the time to do our app coding test. 
 
 Please complete the challenge within 7 days.
@@ -35,6 +33,8 @@ Feel free to spend as much or as little time as you'd like, as long as the follo
 - Use the returned data to display a page of results that matches the design provided.
 
 ## Design
+
+![Alt](https://github.com/NilPuig/Skyscanner-Test/blob/master/results.png)
 
 We've provided a design for phone layout (see `/designs/results-phone.png`). Don't worry about tackling tablet screens.
 
